@@ -1,6 +1,6 @@
 const project = {
     title: "Shared Project",
-    status: "testing",
+    status: "ready",
     theme: "light",
     language: "uk",
     itemsPerPage: 10,
